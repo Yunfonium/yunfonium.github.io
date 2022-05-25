@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Yunfonium Blog`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://yunfonium.github.io`,
   },
   plugins: [],
 }
